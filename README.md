@@ -1,5 +1,6 @@
 # Calour
-A  home energy optimizer for heating and electricity \n
+A  home energy optimizer for heating and electricity 
+
 Note: Summary written by Claude
 
 Calour is a Python-based project designed to help users understand household energy consumption, estimate energy costs, and explore how home heating configurations affect temperature distribution and energy efficiency.
